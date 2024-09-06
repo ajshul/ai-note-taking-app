@@ -59,7 +59,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## AI Enhancement
 
-The AI enhancement feature uses OpenAI's GPT model to improve your notes. It focuses on:
+The AI enhancement feature uses OpenAI's GPT4o model to improve your notes. It focuses on:
 
 - Expanding details and explanations
 - Providing examples
